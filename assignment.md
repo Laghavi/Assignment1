@@ -49,5 +49,39 @@ Image 3-
 Prompt- A top view photo of the food, Spaghetti Zucchini pencil noodles with herbs in white bowl, bowl having small handles on both sides. The dish is on an offwhite table and there is a silver spoon inside the bowl on the right side of bowl. There is nothing else on the table except one offwhite bowl. In the center of the bowl we see small cut green strands of fresh greens on top of the noodles and some bit clusters of pasta.  The bowl is placed in the center of the table
 
 
+Q.5)
+
+Inpainting
+
+Variation 1- 
+
+Used it to give hat and shades to my character
+
+<img width="518" alt="image" src="https://github.com/Laghavi/Assignment1/assets/70020322/dc273cff-7c41-49c2-9909-955b70f3bc44">
+
+Image on right used Inpaint to put hat and shades to my character
+
+
+Variation 2
+
+<img width="535" alt="image" src="https://github.com/Laghavi/Assignment1/assets/70020322/4f846aaa-536a-445d-a289-76963825ab27">
+
+Used inpaint to change an object. Image on left holding newspaper, image on right newspaper changed to laptop
+
+
+Variation 3
+
+![image](https://github.com/Laghavi/Assignment1/assets/70020322/f60ecb55-f8ee-4e51-9f79-6b7202667f60)
+
+Replaced face
+
+Variation 4
+
+<img width="659" alt="image" src="https://github.com/Laghavi/Assignment1/assets/70020322/e3c8931b-e6e6-4442-af81-add57f4da72b">
+
+Used it to redraw background
+
+
+
 
 
