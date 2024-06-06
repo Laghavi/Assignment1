@@ -42,3 +42,12 @@ Prompt- A boy and a girl holding hands and walking with their backs towards the 
 Filter- Real Cartoon XL
 
 
+Image 3-
+
+![image](https://github.com/Laghavi/Assignment1/assets/70020322/d050cce4-22fd-48bd-a86e-44d86bfe1db9)
+
+Prompt- A top view photo of the food, Spaghetti Zucchini pencil noodles with herbs in white bowl, bowl having small handles on both sides. The dish is on an offwhite table and there is a silver spoon inside the bowl on the right side of bowl. There is nothing else on the table except one offwhite bowl. In the center of the bowl we see small cut green strands of fresh greens on top of the noodles and some bit clusters of pasta.  The bowl is placed in the center of the table
+
+
+
+
